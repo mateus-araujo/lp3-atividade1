@@ -1,8 +1,9 @@
 '''
-Created on 9 de mar de 2017
 
-@author: Mateus Araujo
+    @author: Mateus Araujo
+
 '''
+
 from math import log
 number = int(input("Tamanho da mensagem? \nR- "))
 
